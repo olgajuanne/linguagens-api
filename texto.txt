@@ -1,6 +1,0 @@
-private List<Linguagem> linguagens = 
-      List.of(
-          new Linguagem("Java", "https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java.png", 1),
-          new Linguagem("PHP", "https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/php/php.png", 2),
-          new Linguagem("Javascript", "https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.png", 3)
-      );
